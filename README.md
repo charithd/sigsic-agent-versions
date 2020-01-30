@@ -42,8 +42,6 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](#)
-
 SigSci dashboard doesn't support to retrieve all the agent's versions from one place, so this lambda iterates through all the sites and retrieves all agent's version details, then it will generate an email with the data (csv file attachment).
 
 ### Built With
@@ -78,5 +76,4 @@ charith079@gmail.com
 [aws-shield]: https://img.shields.io/badge/AWS-Lambda-yellow
 [aws-url]: #
 
-[product-screenshot]: images/image.png
 
